@@ -1,0 +1,14 @@
+{
+  "resourceName": "kamaldemos3",
+  "policyUUID": "b25d9eca",
+  "bucketName": "amplifyreactgraphql73ec6fc517434307baff55efcdf2",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
